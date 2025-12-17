@@ -1,0 +1,17 @@
+<link href="/normalize.css" rel="stylesheet">
+
+// Color scheme //
+    Royal-Blue #4C6CC2
+    Dark-Purple #221837
+    Eminence #6A2D7F
+    Tekhlet #3E3586
+    Space-Cadet #262A55
+    */
+
+<style>
+
+body {
+      background-color:#3E3586;
+      text-align: center;
+      color: #6A2D7F;
+    }
